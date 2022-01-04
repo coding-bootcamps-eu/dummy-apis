@@ -1,0 +1,10 @@
+{
+  "name": "dummy-apis",
+  "version": "1.0.0",
+  "description": "Dummy APIs",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nico Koenig",
+  "license": "MIT",
+  "dependencies": {}
+}
