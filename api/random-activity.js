@@ -1,4 +1,6 @@
 exports.handler = async function (event, context, callback) {
+  const arr = ["Buy Beer in Saudi Arabia", "Jump of a Plane"];
+
   try {
     callback(null, {
       statusCode: 200,
