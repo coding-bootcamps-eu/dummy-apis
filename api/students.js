@@ -1,5 +1,5 @@
 exports.handler = async function (event, context, callback) {
-  const { students } = require(`./students.json`);
+  const students = require(`./students.json`);
 
   try {
     callback(null, {
