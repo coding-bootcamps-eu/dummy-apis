@@ -488,7 +488,6 @@ exports.handler = async function (event, context, callback) {
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Headers": "Content-Type",
         "Access-Control-Allow-Methods": "GET",
-        "e"
       },
       body: JSON.stringify(getRandomQuote()),
     });
