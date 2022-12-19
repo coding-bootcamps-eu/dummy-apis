@@ -2,7 +2,7 @@ exports.handler = async function (event, context, callback) {
   const quotes = [
     {
       quote:
-        "Life isn’t about getting and having, it’s about giving and being.",
+        "Life isn't about getting and having, it's about giving and being.",
       author: "Kevin Kruse",
     },
     {
@@ -24,12 +24,12 @@ exports.handler = async function (event, context, callback) {
       author: "Florence Nightingale",
     },
     {
-      quote: "You miss 100% of the shots you don’t take.",
+      quote: "You miss 100% of the shots you don't take.",
       author: "Wayne Gretzky",
     },
     {
       quote:
-        "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
+        "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
       author: "Michael Jordan",
     },
     {
@@ -53,7 +53,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "Life is what happens to you while you’re busy making other plans.",
+        "Life is what happens to you while you're busy making other plans.",
       author: "John Lennon",
     },
     {
@@ -62,7 +62,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
+        "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
       author: "Mark Twain",
     },
     {
@@ -71,7 +71,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "The most common way people give up their power is by thinking they don’t have any.",
+        "The most common way people give up their power is by thinking they don't have any.",
       author: "Alice Walker",
     },
     {
@@ -93,11 +93,11 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "Your time is limited, so don’t waste it living someone else’s life.",
+        "Your time is limited, so don't waste it living someone else's life.",
       author: "Steve Jobs",
     },
     {
-      quote: "Winning isn’t everything, but wanting to win is.",
+      quote: "Winning isn't everything, but wanting to win is.",
       author: "Vince Lombardi",
     },
     {
@@ -117,7 +117,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
       author: "Maya Angelou",
     },
     {
@@ -125,7 +125,7 @@ exports.handler = async function (event, context, callback) {
       author: "Jim Rohn",
     },
     {
-      quote: "Whether you think you can or you think you can’t, you’re right.",
+      quote: "Whether you think you can or you think you can't, you're right.",
       author: "Henry Ford",
     },
     {
@@ -144,11 +144,11 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.",
+        "People often say that motivation doesn't last. Well, neither does bathing.  That's why we recommend it daily.",
       author: "Zig Ziglar",
     },
     {
-      quote: "Life shrinks or expands in proportion to one’s courage.",
+      quote: "Life shrinks or expands in proportion to one's courage.",
       author: "Anais Nin",
     },
     {
@@ -192,11 +192,11 @@ exports.handler = async function (event, context, callback) {
       author: " Ancient Indian Proverb",
     },
     {
-      quote: "Believe you can and you’re halfway there.",
+      quote: "Believe you can and you're halfway there.",
       author: "Theodore Roosevelt",
     },
     {
-      quote: "Everything you’ve ever wanted is on the other side of fear.",
+      quote: "Everything you've ever wanted is on the other side of fear.",
       author: "George Addair",
     },
     {
@@ -215,7 +215,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
+        "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy'.  They told me I didn't understand the assignment, and I told them they didn't understand life.",
       author: "John Lennon",
     },
     {
@@ -252,7 +252,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
+        "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
       author: "Sheryl Sandberg",
     },
     {
@@ -266,7 +266,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground.",
+        "You can't fall if you don't climb.  But there's no joy in living your whole life on the ground.",
       author: "Unknown",
     },
     {
@@ -305,11 +305,11 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+        "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
       author: "Bob Dylan",
     },
     {
-      quote: "I didn’t fail the test. I just found 100 ways to do it wrong.",
+      quote: "I didn't fail the test. I just found 100 ways to do it wrong.",
       author: "Benjamin Franklin",
     },
     {
@@ -364,7 +364,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+        "The battles that count aren't the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that's where it's at.",
       author: "Jesse Owens",
     },
     {
@@ -373,7 +373,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "I have learned over the years that when one’s mind is made up, this diminishes fear.",
+        "I have learned over the years that when one's mind is made up, this diminishes fear.",
       author: "Rosa Parks",
     },
     {
@@ -382,7 +382,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+        "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
       author: "Oprah Winfrey",
     },
     {
@@ -392,7 +392,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "You can’t use up creativity.  The more you use, the more you have.",
+        "You can't use up creativity.  The more you use, the more you have.",
       author: "Maya Angelou",
     },
     {
@@ -410,7 +410,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "If you do what you’ve always done, you’ll get what you’ve always gotten.",
+        "If you do what you've always done, you'll get what you've always gotten.",
       author: "Tony Robbins",
     },
     {
@@ -419,12 +419,12 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.",
+        "It's your place in the world; it's your life. Go on and do all you can with it, and make it the life you want to live.",
       author: "Mae Jemison",
     },
     {
       quote:
-        "You may be disappointed if you fail, but you are doomed if you don’t try.",
+        "You may be disappointed if you fail, but you are doomed if you don't try.",
       author: "Beverly Sills",
     },
     {
@@ -437,7 +437,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "The question isn’t who is going to let me; it’s who is going to stop me.",
+        "The question isn't who is going to let me; it's who is going to stop me.",
       author: "Ayn Rand",
     },
     {
@@ -447,7 +447,7 @@ exports.handler = async function (event, context, callback) {
     },
     {
       quote:
-        "It’s not the years in your life that count. It’s the life in your years.",
+        "It's not the years in your life that count. It's the life in your years.",
       author: "Abraham Lincoln",
     },
     {
@@ -460,7 +460,7 @@ exports.handler = async function (event, context, callback) {
       author: "Benjamin Franklin",
     },
     {
-      quote: "Nothing is impossible, the word itself says, “I’m possible!”",
+      quote: "Nothing is impossible, the word itself says, “I'm possible!”",
       author: "–Audrey Hepburn",
     },
     {
@@ -488,6 +488,7 @@ exports.handler = async function (event, context, callback) {
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Headers": "Content-Type",
         "Access-Control-Allow-Methods": "GET",
+        "e"
       },
       body: JSON.stringify(getRandomQuote()),
     });
